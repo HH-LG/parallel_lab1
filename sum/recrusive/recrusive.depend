@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678347548 source:d:\24746\documents\program\recrusive\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+

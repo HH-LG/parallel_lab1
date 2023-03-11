@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678459318 source:d:\24746\documents\program\sum_common\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
